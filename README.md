@@ -1,6 +1,6 @@
-# "Humanization of yeast genes with multiple human orthologs reveals principles of functional divergence between paralogs" Figure 6 rendering script and data.
+# "Humanization of yeast genes with multiple human orthologs reveals functional divergence between paralogs" Figure 6 rendering script and data.
 
-This repository contains the data and figure rendering script (written in R) to generate figure 6 for the manscript "Humanization of yeast genes with multiple human orthologs reveals principles of functional divergence between paralogs", Laurent et al. 2020. A preprint of the manscript can be found here: https://www.biorxiv.org/content/biorxiv/early/2019/06/13/668335.full.pdf
+This repository contains the data and figure rendering script (written in R) to generate figure 6 for the manscript "Humanization of yeast genes with multiple human orthologs reveals functional divergence between paralogs", Laurent et al. 2020. A preprint of the manscript can be found here: https://www.biorxiv.org/content/biorxiv/early/2019/06/13/668335.full.pdf
 
 The data used to render figure 6 was generated using simulation and analysis tools that can be found here: https://github.com/a-teufel/Protein_Duplication This simulation platform was originally described in "The Many Nuanced Evolutionary Consequences of Duplicated Genes", Teufel et al. 2019, which can be found here: https://doi.org/10.1093/molbev/msy210
 
